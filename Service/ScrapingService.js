@@ -38,11 +38,11 @@ class Scraping {
       };
       let dataList = [];
       const updTime = document.querySelector('time').innerText;
-      if (updTime === lastTime && common.timeFlg === 0) {
+      if (updTime === lastTime && common.debugFlg === 0) {
         return data;
-      }
+      }      
       
-      const storeCodeList = document.querySelector(common.targetTag).nextElementSibling.nextElementSibling.querySelectorAll('tr');      
+      const storeCodeList = document.querySelector(common.targetTag).nextElementSibling.nextElementSibling.querySelectorAll('tr');
       storeCodeList.forEach((elm, idx) => {
         let row = [];
         if (idx === 0) {
@@ -54,7 +54,13 @@ class Scraping {
         } else {
           elm.querySelectorAll('td').forEach((body, itmIdx) => {
             if (itmIdx === 2) {
-              row.push(body.querySelector('input').value);
+              let codeTag = body.querySelector('input');
+              if (codeTag === null) {
+                codeTag = body.querySelector('a').innerText;                
+              } else {
+                codeTag = codeTag.value;
+              }
+              row.push(codeTag);
               dataList.push(row);
               row = [];
             } else {

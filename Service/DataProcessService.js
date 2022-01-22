@@ -15,7 +15,7 @@ class DataProcess {
     data.forEach((row, rowCnt) => {
       row.forEach((col, colCnt) => {
         if (rowCnt === 0) {
-          msg += col + separater.repeat(40);
+          msg += col + separater.repeat((colCnt === 1 ? 60 : 40));
         } else {
           if (colCnt === 2) {
             msg += col;

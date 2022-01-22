@@ -10,7 +10,7 @@ const name = 'Index';
 const DataProcess = require('./Service/DataProcessService.js');
 const dataprocess = new DataProcess(logger);
 
-client.on('ready', () => {
+client.on('ready', async() => {
   logger.info(`login: user[${client.user.tag}]`);
   const cron = require('node-cron');
 
@@ -23,14 +23,16 @@ client.on('ready', () => {
       const timeprocess = new TimeProcess(logger);
       const lastTime = await timeprocess.getLastTime();
       // 最終実行日時から1分が経過している場合
-      if (timeprocess.isTimehasPassend(lastTime.lastexetime)) {
+      if (timeprocess.isTimehasPassend(lastTime.lastexetime) || common.scraping.debugFlg) {
+
         // 実行日時を記録
         timeprocess.setLastExeTime();
         
         const Scraping = require('./Service/ScrapingService.js');
         const scraping = new Scraping(logger);
         // データ取得
-        const data = await scraping.getCode(lastTime.lastupdtime);
+        const data = await scraping.getCode(lastTime.lastupdtime);        
+        // サイトの更新日時を比較
         if (data.lastUpdTime) {
           // データ加工して送る
           timeprocess.setLastUpdTime(data.lastUpdTime);
@@ -48,7 +50,7 @@ client.on('ready', () => {
       process.exit(1);
     }
   });
-});
+// });
 
 client.on('message', async msg => {    
   if (msg.author.id === admin) {
@@ -65,7 +67,7 @@ client.on('message', async msg => {
   // オウム返し
   // if (msg.author !== client.user) {
   //   msg.channel.send(msg.content);
-  // }
+  }
 });
 
 // 招待されたとき
@@ -87,6 +89,10 @@ function broadcastMsg(msg) {
     return channel.type == common.discord.sendChannelType && channel.name == common.discord.sendChannelName;
   });
   Array.from(textChannels.keys()).forEach(channelId => {
-    client.channels.cache.get(channelId).send(msg);
+    if (common.discord.debugFlg) {
+      console.log(msg);
+    } else {      
+      client.channels.cache.get(channelId).send(msg);
+    }
   });
 }

@@ -4,14 +4,15 @@
       "targetUrl" : "https://kamigame.jp/dbd/page/116439381060878343.html",
       "targetTag" :"#引き換えコードの最新情報",
       "interval" : "0 0 */3 * * *",
-      "timeFlg" : 0
+      "debugFlg" : 0
   },
   "discord" : {
       "sendChannelType" : "GUILD_TEXT",
-      "sendChannelName" : "一般"
+      "sendChannelName" : "一般",
+      "debugFlg" : 0
   },
   "dataProcess" : {
-      "maxLimitLen" : 6,
+      "maxLimitLen" : 11,
       "maxContentsLen" : 35
   }
  }

@@ -1,1 +1,329 @@
-ログが記載される
+[2022-01-22T16:47:10.506] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T16:47:10.656] [INFO] system - call: Index ready
+[2022-01-22T16:47:10.657] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T16:47:10.658] [INFO] system - call: Repository getLastTime
+[2022-01-22T16:47:10.661] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-2 21:19:43:391]
+[2022-01-22T16:47:10.661] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T16:47:10.662] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 16:47:10 GMT+0900 (日本標準時)]
+[2022-01-22T16:47:10.663] [INFO] system - call: Repository setLastExeTime time[2022-1-22 16:47:10:662]
+[2022-01-22T16:47:10.664] [INFO] system - call: Scraping getCode lastTime[2021-12-27 10:15]
+[2022-01-22T16:47:14.433] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2021-12-27 10:15]
+[2022-01-22T16:47:17.332] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T16:50:13.558] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T16:50:13.578] [INFO] system - call: Index ready
+[2022-01-22T16:50:13.579] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T16:50:13.580] [INFO] system - call: Repository getLastTime
+[2022-01-22T16:50:13.581] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:47:10:662]
+[2022-01-22T16:50:13.582] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T16:50:13.582] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 16:50:13 GMT+0900 (日本標準時)]
+[2022-01-22T16:50:13.582] [INFO] system - call: Repository setLastExeTime time[2022-1-22 16:50:13:582]
+[2022-01-22T16:50:13.583] [INFO] system - call: Scraping getCode lastTime[2021-12-27 10:15]
+[2022-01-22T16:50:13.843] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2021-12-27 10:15]
+[2022-01-22T16:50:14.315] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T16:50:39.750] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T16:50:39.770] [INFO] system - call: Index ready
+[2022-01-22T16:50:39.771] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T16:50:39.771] [INFO] system - call: Repository getLastTime
+[2022-01-22T16:50:39.772] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:50:13:582]
+[2022-01-22T16:50:39.773] [INFO] system - msg: Index 時間を空けて実行してください
+[2022-01-22T16:57:34.069] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T16:57:34.088] [INFO] system - call: Index ready
+[2022-01-22T16:57:34.088] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T16:57:34.089] [INFO] system - call: Repository getLastTime
+[2022-01-22T16:57:34.090] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:50:13:582]
+[2022-01-22T16:57:34.091] [INFO] system - msg: Index 時間を空けて実行してください
+[2022-01-22T16:58:12.915] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T16:58:12.934] [INFO] system - call: Index ready
+[2022-01-22T16:58:12.934] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T16:58:12.935] [INFO] system - call: Repository getLastTime
+[2022-01-22T16:58:12.936] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:50:13:582]
+[2022-01-22T16:58:12.937] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T16:58:12.937] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 16:58:12 GMT+0900 (日本標準時)]
+[2022-01-22T16:58:12.937] [INFO] system - call: Repository setLastExeTime time[2022-1-22 16:58:12:937]
+[2022-01-22T16:58:12.938] [INFO] system - call: Scraping getCode lastTime[2021-12-27 10:15]
+[2022-01-22T16:58:13.166] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2021-12-27 10:15]
+[2022-01-22T16:58:13.664] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T16:58:13.664] [INFO] system - call: Repository setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T16:58:13.665] [INFO] system - call: DataProcess convertMsg data[期間,内容,コード,~1/22AM5時,10万BP,LIGHTSCAMERABP,不明,10万BP,REVEALED,~1/21,59,000BP,59th39,~2/11,ブライトスキン1種,AmazonPrime会員限定,無制限,魔除け「虹色の旗」,PRIDE]
+[2022-01-22T16:58:13.665] [INFO] system - call: DataProcess setCodeMsg msg[期間                                        内容                                        コード                                        
+~1/22AM5時            10万BP                                         LIGHTSCAMERABP      
+不明            10万BP                                         REVEALED      
+~1/21            59,000BP                                         59th39      
+~2/11            ブライトスキン1種                                         AmazonPrime会員限定      
+無制限            魔除け「虹色の旗」                                         PRIDE      
+]
+[2022-01-22T16:58:13.666] [INFO] system - call: Repository setCodeMsg msg[期間                                        内容                                        コード                                        
+~1/22AM5時            10万BP                                         LIGHTSCAMERABP      
+不明            10万BP                                         REVEALED      
+~1/21            59,000BP                                         59th39      
+~2/11            ブライトスキン1種                                         AmazonPrime会員限定      
+無制限            魔除け「虹色の旗」                                         PRIDE      
+]
+[2022-01-22T16:58:35.974] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T16:58:35.993] [INFO] system - call: Index ready
+[2022-01-22T16:58:35.993] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T16:58:35.994] [INFO] system - call: Repository getLastTime
+[2022-01-22T16:58:35.995] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:58:12:937]
+[2022-01-22T16:58:35.995] [INFO] system - msg: Index 時間を空けて実行してください
+[2022-01-22T16:59:23.169] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T16:59:23.188] [INFO] system - call: Index ready
+[2022-01-22T16:59:23.188] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T16:59:23.189] [INFO] system - call: Repository getLastTime
+[2022-01-22T16:59:23.190] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:58:12:937]
+[2022-01-22T16:59:23.191] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T16:59:23.191] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 16:59:23 GMT+0900 (日本標準時)]
+[2022-01-22T16:59:23.192] [INFO] system - call: Repository setLastExeTime time[2022-1-22 16:59:23:191]
+[2022-01-22T16:59:23.193] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T16:59:23.387] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T16:59:23.872] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:00:20.272] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:00:20.290] [INFO] system - call: Index ready
+[2022-01-22T17:00:20.291] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:00:20.291] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:00:20.293] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:59:23:191]
+[2022-01-22T17:00:20.293] [INFO] system - msg: Index 時間を空けて実行してください
+[2022-01-22T17:00:39.181] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:00:39.200] [INFO] system - call: Index ready
+[2022-01-22T17:00:39.200] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:00:39.201] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:00:39.202] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 16:59:23:191]
+[2022-01-22T17:00:39.203] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:00:39.204] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:00:39 GMT+0900 (日本標準時)]
+[2022-01-22T17:00:39.204] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:0:39:203]
+[2022-01-22T17:00:39.205] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:00:39.408] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:00:39.869] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:01:28.644] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:01:28.664] [INFO] system - call: Index ready
+[2022-01-22T17:01:28.664] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:01:28.665] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:01:28.666] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:0:39:203]
+[2022-01-22T17:01:28.667] [INFO] system - msg: Index 時間を空けて実行してください
+[2022-01-22T17:01:47.947] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:01:47.966] [INFO] system - call: Index ready
+[2022-01-22T17:01:47.967] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:01:47.968] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:01:47.969] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:0:39:203]
+[2022-01-22T17:01:47.970] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:01:47.970] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:01:47 GMT+0900 (日本標準時)]
+[2022-01-22T17:01:47.970] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:1:47:970]
+[2022-01-22T17:01:47.971] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:01:48.165] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:01:48.639] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:02:35.641] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:02:35.659] [INFO] system - call: Index ready
+[2022-01-22T17:02:35.660] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:02:35.660] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:02:35.662] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:1:47:970]
+[2022-01-22T17:02:35.662] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:02:35.663] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:02:35 GMT+0900 (日本標準時)]
+[2022-01-22T17:02:35.663] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:2:35:663]
+[2022-01-22T17:02:35.664] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:02:35.858] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:02:36.278] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:05:00.414] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:05:00.433] [INFO] system - call: Index ready
+[2022-01-22T17:05:00.434] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:05:00.435] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:05:00.436] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:2:35:663]
+[2022-01-22T17:05:00.437] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:05:00.437] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:05:00 GMT+0900 (日本標準時)]
+[2022-01-22T17:05:00.438] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:5:0:437]
+[2022-01-22T17:05:00.439] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:05:00.642] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:05:01.087] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:06:22.532] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:06:22.551] [INFO] system - call: Index ready
+[2022-01-22T17:06:22.552] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:06:22.552] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:06:22.554] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:5:0:437]
+[2022-01-22T17:06:22.554] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:06:22.554] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:06:22 GMT+0900 (日本標準時)]
+[2022-01-22T17:06:22.555] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:6:22:554]
+[2022-01-22T17:06:22.556] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:06:22.760] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:06:23.261] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:06:42.690] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:06:42.709] [INFO] system - call: Index ready
+[2022-01-22T17:06:42.710] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:06:42.710] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:06:42.712] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:6:22:554]
+[2022-01-22T17:06:42.713] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:06:42.713] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:06:42 GMT+0900 (日本標準時)]
+[2022-01-22T17:06:42.714] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:6:42:713]
+[2022-01-22T17:06:42.715] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:06:42.908] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:06:43.356] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:07:44.311] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:07:44.329] [INFO] system - call: Index ready
+[2022-01-22T17:07:44.330] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:07:44.331] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:07:44.332] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:6:42:713]
+[2022-01-22T17:07:44.332] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:07:44.333] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:07:44 GMT+0900 (日本標準時)]
+[2022-01-22T17:07:44.333] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:7:44:333]
+[2022-01-22T17:07:44.334] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:07:44.548] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:07:44.988] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:11:47.898] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:11:47.917] [INFO] system - call: Index ready
+[2022-01-22T17:11:47.918] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:11:47.918] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:11:47.920] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:7:44:333]
+[2022-01-22T17:11:47.920] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:11:47.920] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:11:47 GMT+0900 (日本標準時)]
+[2022-01-22T17:11:47.921] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:11:47:920]
+[2022-01-22T17:11:47.922] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:11:48.133] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:11:48.581] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:11:48.582] [INFO] system - call: Repository setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:11:48.582] [INFO] system - call: DataProcess convertMsg data[期間,内容,コード,~1/22AM5時,10万BP,LIGHTSCAMERABP,不明,10万BP,REVEALED,~1/21,59,000BP,59th39,~2/11,ブライトスキン1種,AmazonPrime会員限定,無制限,魔除け「虹色の旗」,PRIDE]
+[2022-01-22T17:11:48.585] [INFO] system - call: DataProcess setCodeMsg msg[期間                                        内容                                        コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:11:48.586] [INFO] system - call: Repository setCodeMsg msg[期間                                        内容                                        コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:13:26.004] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:13:26.023] [INFO] system - call: Index ready
+[2022-01-22T17:13:26.024] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:13:26.024] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:13:26.026] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:11:47:920]
+[2022-01-22T17:13:26.026] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:13:26.026] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:13:26 GMT+0900 (日本標準時)]
+[2022-01-22T17:13:26.027] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:13:26:26]
+[2022-01-22T17:13:26.028] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:13:26.239] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:13:26.719] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:13:26.720] [INFO] system - call: Repository setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:13:26.720] [INFO] system - call: DataProcess convertMsg data[期間,内容,コード,~1/22AM5時,10万BP,LIGHTSCAMERABP,不明,10万BP,REVEALED,~1/21,59,000BP,59th39,~2/11,ブライトスキン1種,AmazonPrime会員限定,無制限,魔除け「虹色の旗」,PRIDE]
+[2022-01-22T17:13:26.722] [INFO] system - call: DataProcess setCodeMsg msg[期間                                        内容                                        コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:13:26.723] [INFO] system - call: Repository setCodeMsg msg[期間                                        内容                                        コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:20:38.951] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:20:38.970] [INFO] system - call: Index ready
+[2022-01-22T17:20:38.971] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:20:38.971] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:20:38.973] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:13:26:26]
+[2022-01-22T17:20:38.973] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:20:38.974] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:20:38 GMT+0900 (日本標準時)]
+[2022-01-22T17:20:38.974] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:20:38:973]
+[2022-01-22T17:20:38.975] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:20:39.189] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:20:39.716] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:20:39.716] [INFO] system - call: Repository setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:20:39.717] [INFO] system - call: DataProcess convertMsg data[期間,内容,コード,~1/22AM5時,10万BP,LIGHTSCAMERABP,不明,10万BP,REVEALED,~1/21,59,000BP,59th39,~2/11,ブライトスキン1種,AmazonPrime会員限定,無制限,魔除け「虹色の旗」,PRIDE]
+[2022-01-22T17:20:39.719] [INFO] system - call: DataProcess setCodeMsg msg[期間                                        内容                                        コード                                                            
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:20:39.720] [INFO] system - call: Repository setCodeMsg msg[期間                                        内容                                        コード                                                            
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:23:07.199] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:23:07.217] [INFO] system - call: Index ready
+[2022-01-22T17:23:07.218] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:23:07.218] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:23:07.219] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:20:38:973]
+[2022-01-22T17:23:07.220] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:23:07.220] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:23:07 GMT+0900 (日本標準時)]
+[2022-01-22T17:23:07.221] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:23:7:220]
+[2022-01-22T17:23:07.221] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:23:07.444] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:23:07.910] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:23:07.910] [INFO] system - call: Repository setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:23:07.911] [INFO] system - call: DataProcess convertMsg data[期間,内容,コード,~1/22AM5時,10万BP,LIGHTSCAMERABP,不明,10万BP,REVEALED,~1/21,59,000BP,59th39,~2/11,ブライトスキン1種,AmazonPrime会員限定,無制限,魔除け「虹色の旗」,PRIDE]
+[2022-01-22T17:23:07.912] [INFO] system - call: DataProcess setCodeMsg msg[期間                                        内容                                        コード                                                            
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:23:07.913] [INFO] system - call: Repository setCodeMsg msg[期間                                        内容                                        コード                                                            
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:26:09.405] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:26:09.424] [INFO] system - call: Index ready
+[2022-01-22T17:26:09.425] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:26:09.425] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:26:09.427] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:23:7:220]
+[2022-01-22T17:26:09.427] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:26:09.428] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:26:09 GMT+0900 (日本標準時)]
+[2022-01-22T17:26:09.428] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:26:9:427]
+[2022-01-22T17:26:09.429] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:26:09.642] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:26:10.121] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:26:10.122] [INFO] system - call: Repository setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:26:10.122] [INFO] system - call: DataProcess convertMsg data[期間,内容,コード,~1/22AM5時,10万BP,LIGHTSCAMERABP,不明,10万BP,REVEALED,~1/21,59,000BP,59th39,~2/11,ブライトスキン1種,AmazonPrime会員限定,無制限,魔除け「虹色の旗」,PRIDE]
+[2022-01-22T17:26:10.123] [INFO] system - call: DataProcess setCodeMsg msg[期間                                        内容                                                            コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:26:10.124] [INFO] system - call: Repository setCodeMsg msg[期間                                        内容                                                            コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:27:18.398] [INFO] system - login: user[非公式 DBDbot#0422]
+[2022-01-22T17:27:18.417] [INFO] system - call: Index ready
+[2022-01-22T17:27:18.418] [INFO] system - call: TimeProcess getLastTime
+[2022-01-22T17:27:18.418] [INFO] system - call: Repository getLastTime
+[2022-01-22T17:27:18.420] [INFO] system - call: TimeProcess isTimehasPassend time[2022-1-22 17:26:9:427]
+[2022-01-22T17:27:18.420] [INFO] system - call: TimeProcess setLastExeTime
+[2022-01-22T17:27:18.421] [INFO] system - call: TimeProcess convertToDate time[Sat Jan 22 2022 17:27:18 GMT+0900 (日本標準時)]
+[2022-01-22T17:27:18.422] [INFO] system - call: Repository setLastExeTime time[2022-1-22 17:27:18:421]
+[2022-01-22T17:27:18.423] [INFO] system - call: Scraping getCode lastTime[2022-01-21 09:46]
+[2022-01-22T17:27:18.664] [INFO] system - call: Scraping getCodeFromWeb url[https://kamigame.jp/dbd/page/116439381060878343.html] lastTime[2022-01-21 09:46]
+[2022-01-22T17:27:19.197] [INFO] system - call: TimeProcess setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:27:19.197] [INFO] system - call: Repository setLastUpdTime time[2022-01-21 09:46]
+[2022-01-22T17:27:19.198] [INFO] system - call: DataProcess convertMsg data[期間,内容,コード,~1/22AM5時,10万BP,LIGHTSCAMERABP,不明,10万BP,REVEALED,~1/21,59,000BP,59th39,~2/11,ブライトスキン1種,AmazonPrime会員限定,無制限,魔除け「虹色の旗」,PRIDE]
+[2022-01-22T17:27:19.198] [INFO] system - call: DataProcess setCodeMsg msg[期間                                        内容                                                            コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
+[2022-01-22T17:27:19.199] [INFO] system - call: Repository setCodeMsg msg[期間                                        内容                                                            コード                                        
+~1/22AM5時        10万BP                                                                LIGHTSCAMERABP      
+不明                    10万BP                                                                REVEALED      
+~1/21                  59,000BP                                                            59th39      
+~2/11                  ブライトスキン1種                                          AmazonPrime会員限定      
+無制限                魔除け「虹色の旗」                                        PRIDE      
+]
