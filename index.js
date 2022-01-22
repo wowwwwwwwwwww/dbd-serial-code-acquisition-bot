@@ -45,12 +45,13 @@ client.on('ready', async() => {
       }
     } catch(e) {
       logger.error(e);
-      await broadcastMsg('問題が発生したため強制終了します');
+      // エラーが発生するとdiscordでMSGが送れない。MSG前後の処理は正常に処理される
+      // await broadcastMsg('問題が発生したため強制終了します');
       logger.info(`logout: user[${client.user.tag}]`);
       process.exit(1);
     }
   });
-// });
+});
 
 client.on('message', async msg => {    
   if (msg.author.id === admin) {
@@ -67,7 +68,7 @@ client.on('message', async msg => {
   // オウム返し
   // if (msg.author !== client.user) {
   //   msg.channel.send(msg.content);
-  }
+  // }
 });
 
 // 招待されたとき
@@ -91,7 +92,7 @@ function broadcastMsg(msg) {
   Array.from(textChannels.keys()).forEach(channelId => {
     if (common.discord.debugFlg) {
       console.log(msg);
-    } else {      
+    } else {
       client.channels.cache.get(channelId).send(msg);
     }
   });

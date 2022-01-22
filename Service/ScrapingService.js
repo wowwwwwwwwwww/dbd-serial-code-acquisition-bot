@@ -69,7 +69,7 @@ class Scraping {
           });
         }
       });
-      if (dataList.length === 0) {
+      if (dataList.length === 0 || true) {
         throw new Error('Could not get the data');
       }
 
