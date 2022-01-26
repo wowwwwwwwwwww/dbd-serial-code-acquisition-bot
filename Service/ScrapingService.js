@@ -56,7 +56,8 @@ class Scraping {
             if (itmIdx === 2) {
               let codeTag = body.querySelector('input');
               if (codeTag === null) {
-                codeTag = body.querySelector('a').innerText;                
+                const linkTag = body.querySelector('a');
+                codeTag = (linkTag ? linkTag.innerText :  body.innerText);
               } else {
                 codeTag = codeTag.value;
               }
